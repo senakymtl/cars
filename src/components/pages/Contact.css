@@ -1,0 +1,18 @@
+.contact{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.a-down{
+    color: goldenrod;
+    text-transform:lowercase;
+}
+
+ion-icon {
+    color: goldenrod;
+    font-size: 150px;
+    margin-top: 30px;
+}
+
+    
