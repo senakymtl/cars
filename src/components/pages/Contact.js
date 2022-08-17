@@ -14,15 +14,29 @@ function Contact() {
                 <a href="mailto:">
                     <p>E-MAIL:<span className="a-down">koymatlisenanur@gmail.com</span></p>
                 </a>
-                <div>
-                    <a href="https://www.instagram.com/" target="_blank">
+            </div>
+            <div className="icon-container">
+                <a href="https://www.instagram.com/" target="_blank">
+                    <p><span className="a-down">
+                        <ion-icon  clasName='insta-icon' name="logo-instagram"></ion-icon>
+                    </span></p>
+                </a>
+                
+                    <a href="https://twitter.com/" target="_blank">
                         <p><span className="a-down">
-                            <ion-icon  clasName='insta-icon' name="logo-instagram"></ion-icon>
+                        <ion-icon clasName='tw-icon' name="logo-twitter"></ion-icon>
                         </span></p>
                     </a>
-                </div>
+                    
+                        <a href="https://web.whatsapp.com/" target="_blank">
+                            <p><span className="a-down">
+                        <ion-icon className="wp-icon" name="logo-whatsapp"></ion-icon>
+                        </span></p>
+                    </a>
             </div>
         </div>
+            
+        
       
     )
 

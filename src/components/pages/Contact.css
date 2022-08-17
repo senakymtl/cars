@@ -12,7 +12,11 @@
 ion-icon {
     color: goldenrod;
     font-size: 150px;
-    margin-top: 30px;
+    float: right;
+    margin-top: 60px;  
 }
 
-    
+.icon-container {
+    display: flex;
+}
+
